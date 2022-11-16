@@ -12,12 +12,12 @@ const unityContext = new UnityContext({
 function App() {
   return (
     <div id="unity-container">
-      {/* <Unity 
+      { <Unity 
         style={{
           width: '80vw',
           height: '45vw',
         }}
-        unityContext={unityContext} /> */}
+        unityContext={unityContext} /> }
     </div>
 
   );
