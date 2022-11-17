@@ -3,6 +3,16 @@
   src: url("./Quicksand-VariableFont_wght.ttf");
 }
 
+@font-face {
+  font-family: 'GongGothic';
+  src: url("./GongGothicMedium.ttf");
+}
+
+@font-face {
+  font-family: 'GongGothicLight';
+  src: url("./GongGothicLight.ttf");
+}
+
 html,
 body{
   margin: 0;
@@ -36,6 +46,7 @@ body{
 }
 
 .ProgressText{
+  font-family: 'GongGothicLight';
   margin-top: 40px;
 }
 
@@ -46,15 +57,17 @@ body{
 }
 
 .ProgressBar{
-  margin-top: 28px;
+  margin-top: 10px;
   width: 80%;
 }
 .wrapper{
   border: 1px solid lightgray;
+  border-radius: 10px;
 }
 
 .ProgressLabel{
   color: #726E6F;
+  font-family: 'GongGothicLight';
   font-size: 22px;
   font-weight: 500;
 }
@@ -75,7 +88,7 @@ body{
 }
 
 #unity-container > .loading-overlay > p{
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'GongGothicLight', sans-serif;
   color: #bf8855;
   font-weight: 700;
   font-size: 5.5em;

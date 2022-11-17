@@ -19,7 +19,7 @@ function App() {
     height="30px"
     bgColor='#BDD7EE'
     baseBgColor='#fff'
-    borderRadius='0px'
+    borderRadius='8px'
     labelClassName='ProgressLabel'
 
     />;
@@ -48,7 +48,7 @@ function App() {
             <img src={DancingFox} alt="DancingFox"/>
           </div>
           <div className="ProgressText">
-            <span>모아 아일랜드로 이동 중이야! 잠시만 기다려줘~</span>
+            <span>모아 아일랜드로 이동 중이야! 잠시만 기다려줘</span>
           </div>
           <div className="ProgressBar">
             <CustomProgressBar/>
