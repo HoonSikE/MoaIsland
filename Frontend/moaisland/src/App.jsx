@@ -55,7 +55,7 @@ function App() {
           </div>
         </div>
       )}
-      {/* <Unity 
+      <Unity 
       style={
         isLoaded ?
         { 
@@ -68,7 +68,7 @@ function App() {
         }      
       }
       unityProvider={unityProvider} 
-      /> */}
+      />
     </div>
   );
 }
