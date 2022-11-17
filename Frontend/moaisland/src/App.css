@@ -22,15 +22,51 @@ body{
   min-height: 95vh;
 } 
 
+.FirstGif > img, .SecondGif > img {
+  width: 100%;
+  height: 100%;
+}
+
+.FirstGif{
+  width: 60%;
+}
+
+.SecondGif{
+  width: 20%;
+}
+
+.ProgressText{
+  margin-top: 40px;
+}
+
+.ProgressText > span{
+  font-weight: 700;
+  font-size: 20px;
+  color: #726E6F;
+}
+
+.ProgressBar{
+  margin-top: 28px;
+  width: 80%;
+}
+.wrapper{
+  border: 1px solid lightgray;
+}
+
+.ProgressLabel{
+  color: #726E6F;
+  font-size: 22px;
+  font-weight: 500;
+}
 
 #unity-container > .loading-overlay{
   width: 80vw;
   height: 45vw;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  background: #fadc96;
+  /* background: #fadc96; */
 }
 
 #unity-container > .loading-overlay > div{
