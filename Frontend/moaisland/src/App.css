@@ -1,0 +1,101 @@
+@font-face {
+  font-family: 'Quicksand';
+  src: url("./Quicksand-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: 'GongGothic';
+  src: url("./GongGothicMedium.ttf");
+}
+
+@font-face {
+  font-family: 'GongGothicLight';
+  src: url("./GongGothicLight.ttf");
+}
+
+html,
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#unity-container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 95vh;
+} 
+
+.FirstGif > img, .SecondGif > img {
+  width: 100%;
+  height: 100%;
+}
+
+.FirstGif{
+  width: 60%;
+}
+
+.SecondGif{
+  width: 20%;
+}
+
+.ProgressText{
+  font-family: 'GongGothicLight';
+  margin-top: 40px;
+}
+
+.ProgressText > span{
+  font-weight: 700;
+  font-size: 20px;
+  color: #726E6F;
+}
+
+.ProgressBar{
+  margin-top: 10px;
+  width: 80%;
+}
+.wrapper{
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+
+.ProgressLabel{
+  color: #726E6F;
+  font-family: 'GongGothicLight';
+  font-size: 22px;
+  font-weight: 500;
+}
+
+#unity-container > .loading-overlay{
+  width: 80vw;
+  height: 45vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background: #fadc96; */
+}
+
+#unity-container > .loading-overlay > div{
+  justify-self: center;
+  align-self: center;
+}
+
+#unity-container > .loading-overlay > p{
+  font-family: 'GongGothicLight', sans-serif;
+  color: #bf8855;
+  font-weight: 700;
+  font-size: 5.5em;
+  /* position: absolute; */
+  justify-self: center;
+  top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  letter-spacing: -3px;
+}
