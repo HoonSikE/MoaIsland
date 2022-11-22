@@ -8,7 +8,7 @@
 
 - 서비스명 : 모아 아일랜드[Moa Island]
 
-- 개발기간 : 2022.10.11 ~ 2022.11.21 (6주)
+- 개발기간 : 2022.10.10 ~ 2022.11.25 (7주)
 
 - 팀명 : 뿌요😇
 
@@ -36,7 +36,7 @@
 - **어린이 대상 경제 교육을 위한 서비스**로, 게임(또는 부모님의 미션)을 통해 게임 재화를 지급받고 이를 은행에 예금·적금하거나 주식 거래 등 다양한 경제 활동을 경험할 수 있습니다.*
   
 ## 2. 서비스 기획 배경
-  
+
   <div align="center">
     <img width="30%;" src="./README/Background/Background1.png" />
     <img width="30%;" src="./README/Background/Background2.png" />
@@ -70,33 +70,33 @@
    - 상호작용
    - 소리
 ## 2. 맵 구성
-    
+
    Unity Asset Store - [**Cartoon Town - Low Poly Assets**](https://assetstore.unity.com/packages/3d/environments/cartoon-town-low-poly-assets-74020?locale=ko-KR)
     
 ## 3. 조작법
-    
+
    <div align="center">
       <img src="./README/Common/2.Control.png" width="70%">
    </div>
-    
+
 ## 4. 현위치 지도
-    
+
    <div align="center">
       <img src="./README/Common/3.Minimap.gif" width="70%">
    </div>
-    
+
 ## 5. 소리 설정
-    
+
    <div align="center">
       <img src="./README/Common/4.SoundSetting.gif" width="70%">
    </div>
-    
+
 ## 6. 챕터 완료 후 스탬프 및 Fade In/Out 
-    
+
    <div align="center">
       <img src="./README/Common/5.Stamp.gif" width="70%">
    </div>
-    
+
 ## 7. 팝업 : 각 챕터에서 꼭 필요한 개념들을 모아섬 편지로 다시 한번 강조
 
    <div align="center">
