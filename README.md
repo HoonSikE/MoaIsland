@@ -30,13 +30,13 @@
 
 ## 1. 모아 아일랜드[Moa Island] 란?
 
-- **어린이 대상 경제 교육을 위한 서비스**로, 게임(또는 부모님의 미션)을 통해 게임 재화를 지급받고 이를 은행에 예금·적금하거나 주식 거래 등 다양한 경제 활동을 경험할 수 있습니다.
+- **어린이 대상 경제 교육을 위한 서비스**로, 게임(또는 부모님의 미션)을 통해 게임 재화(모아)를 지급받고 이를 은행에 예금·적금하거나 주식 거래 등 다양한 경제 활동을 경험할 수 있습니다.
   
 ## 2. 서비스 기획 배경
 
   <div align="center">
-    <img width="30%;" src="./README/Background/Background1.png" />
-    <img width="30%;" src="./README/Background/Background2.png" />
+    <img width="45%;" src="./README/Background/Background1.png" />
+    <img width="45%;" src="./README/Background/Background2.png" />
   </div>
 
 - 최근 많은 사람이 경제 교육에 관심을 갖게 되고 중요도 또한 올라가고 있습니다.
@@ -320,7 +320,7 @@
 <br>
 
    <div align="center">
-      <img src="./README/Scene7/Moaisland_구미초등학교 _2학년_1반_김싸피.jpeg" width="70%">
+      <img src="./README/Scene7/Moaisland_구미초등학교 _2학년_1반_김싸피.png" width="70%">
    </div>
 
 
